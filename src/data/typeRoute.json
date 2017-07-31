@@ -1,0 +1,88 @@
+{
+	"route":[
+		{
+			"path":"/home/all/fruit",
+			"title":"新鲜水果",
+			"items":[
+				{"path":"/home/all/fruit/fruit1", "title":"水果礼盒"},
+				{"path":"/home/all/fruit/fruit2", "title":"进口水果"},
+				{"path":"/home/all/fruit/fruit3", "title":"有机水果"},
+				{"path":"/home/all/fruit/fruit4", "title":"国产水果"}
+			]
+		},
+		{
+			"path":"/home/all/greens",
+			"title":"田园蔬菜",
+			"items":[
+				{"path":"/home/all/greens/greens1", "title":"蔬菜礼篮"},
+				{"path":"/home/all/greens/greens2", "title":"有机蔬菜"},
+				{"path":"/home/all/greens/greens3", "title":"地产蔬菜"},
+				{"path":"/home/all/greens/greens4", "title":"进口蔬菜"}
+			]
+		},
+		{
+			"path":"/home/all/meat",
+			"title":"肉食家禽",
+			"items":[
+				{"path":"/home/all/meat/meat1", "title":"羊肉"},
+				{"path":"/home/all/meat/meat2", "title":"牛肉"},
+				{"path":"/home/all/meat/meat3", "title":"鸡鸭肉"},
+				{"path":"/home/all/meat/meat4", "title":"鱼肉"}
+			]
+		},
+		{
+			"path":"/home/all/fish",
+			"title":"海鲜水产",
+			"items":[
+				{"path":"/home/all/fish/fish1", "title":"海鲜礼盒"},
+				{"path":"/home/all/fish/fish2", "title":"国产海鲜"},
+				{"path":"/home/all/fish/fish3", "title":"进口海鲜"},
+				{"path":"/home/all/fish/fish4", "title":"干货其他"}
+			]
+		},
+		{
+			"path":"/home/all/goodFood",
+			"title":"优选食材",
+			"items":[
+				{"path":"/home/all/goodFood/goodFood1", "title":"优选米面"},
+				{"path":"/home/all/goodFood/goodFood2", "title":"优选杂粮"},
+				{"path":"/home/all/goodFood/goodFood3", "title":"粮油调味"},
+				{"path":"/home/all/goodFood/goodFood4", "title":"其他食材"}
+			]
+		},
+		{
+			"path":"/home/all/wine",
+			"title":"零食酒水",
+			"items":[
+				{"path":"/home/all/wine/wine1", "title":"零食"},
+				{"path":"/home/all/wine/wine2", "title":"特色干果"},
+				{"path":"/home/all/wine/wine3", "title":"休闲冲饮"},
+				{"path":"/home/all/wine/wine4", "title":"茶叶"},
+				{"path":"/home/all/wine/wine5", "title":"白酒"},
+				{"path":"/home/all/wine/wine6", "title":"啤酒"},
+				{"path":"/home/all/wine/wine7", "title":"葡萄酒"},
+				{"path":"/home/all/wine/wine8", "title":"其他酒品"}
+			]
+		},
+		{
+			"path":"/home/all/fastFood",
+			"title":"蛋奶速食",
+			"items":[
+				{"path":"/home/all/fastFood/fastFood1", "title":"方便速食"},
+				{"path":"/home/all/fastFood/fastFood2", "title":"奶制品"},
+				{"path":"/home/all/fastFood/fastFood3", "title":"面包甜点"},
+				{"path":"/home/all/fastFood/fastFood4", "title":"蛋品"}
+			]
+		},
+		{
+			"path":"/home/all/global",
+			"title":"全球代购",
+			"items":[
+				{"path":"/home/all/global/global1", "title":"保健品"},
+				{"path":"/home/all/global/global2", "title":"洗护用品"},
+				{"path":"/home/all/global/global3", "title":"农副产品"},
+				{"path":"/home/all/global/global4", "title":"母婴用品"}
+			]
+		}
+	]
+}

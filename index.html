@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>friday</title>
+	</head>
+	<script src="static/js/area.js" type="text/javascript" charset="utf-8"></script>
+
+	<body>
+		<div id="app"></div>
+		<!-- built files will be auto injected -->
+	</body>
+	<script>
+
+
+
+		function setCookie(name, value, days) {
+		    var d = new Date;
+		    d.setTime(d.getTime() + 24*60*60*1000*days);
+		    window.document.cookie = name + "=" + value + ";path=/;expires=" + d.toGMTString();
+		}
+		
+		function getCookie(name) {
+		    var v = window.document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+		    return v ? v[2] : null;
+		}
+		
+		function deleteCookie(name) {
+		    setCookie(name, '', -1);
+		}
+		
+		window._bd_share_config = {
+			"common": {
+				"bdSnsKey": {},
+				"bdText": "",
+				"bdMini": "2",
+				"bdPic": "",
+				"bdStyle": "0",
+				"bdSize": "24"
+			},
+			"share": {},
+			"image": {
+				"viewList": ["qzone", "tsina", "tqq", "renren", "weixin"],
+				"viewText": "分享到：",
+				"viewSize": "16",
+				"tag":"1"
+			},
+			"selectShare": {
+				"bdContainerClass": null,
+				"bdSelectMiniList": ["qzone", "tsina", "tqq", "renren", "weixin"]
+			}
+		};
+		with(document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+	</script>
+
+</html>

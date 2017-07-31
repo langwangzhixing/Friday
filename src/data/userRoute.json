@@ -1,0 +1,31 @@
+{
+"userCenter":[
+	{
+		"dt": "交易管理",
+		"dd": [
+			{"title":"我的账户","path":"/user/index"},
+			{"title":"我的订单","path":"/user/myOrder"},
+			{"title":"我的积分","path":"/user/myIntegral"},
+			{"title":"积分订单","path":"/user/orderScore"},
+			{"title":"我的钱包","path":"/user/myWallet"},
+			{"title":"充值卡兑换","path":"/user/refillCar"}
+		]
+	},
+	{
+		"dt": "会员资料",
+		"dd": [
+			{"title":"个人资料","path":"/user/personalData"},
+			{"title":"地址管理","path":"/user/address"},
+			{"title":"我的收藏","path":"/user/myFavorite"},
+			{"title":"最近浏览","path":"/user/recently"},
+			{"title":"修改密码","path":"/user/passwords"}
+		]
+	},
+	{
+		"dt": "站内信",
+		"dd": [
+			{"title":"我的消息","path":"/user/message"},
+			{"title":"意见反馈","path":"/user/feedback"}
+		]
+	}]
+}
